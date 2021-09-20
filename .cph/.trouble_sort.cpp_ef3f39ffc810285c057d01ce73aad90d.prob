@@ -1,0 +1,1 @@
+{"name":"Local: trouble_sort","url":"c:\\Users\\WARRIOR PRINCE\\Desktop\\nptel cp\\trouble_sort.cpp","tests":[{"id":1628690513139,"input":"2\n5\n5 6 8 4 3\n3\n8 9 7\n","output":"Case #1: OK\nCase #2: 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\WARRIOR PRINCE\\Desktop\\nptel cp\\trouble_sort.cpp","group":"local","local":true}
